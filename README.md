@@ -1,13 +1,22 @@
 # Python Basic Operations 
 This guide includes the basic concepts and operations of python programming which includes:
-Basic Syntaxt
+
+Basic Syntax
+
 variable 
+
 Data Types and their operations 
+
 List/Tupels/Dictioneries 
+
 if else statments
+
 Loops
+
 Functions 
+
 Classes and Object 
+
 Core concepts of OOPS.
 
 Steps involved for creating python environment: 
